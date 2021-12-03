@@ -33,7 +33,6 @@ dependencies {
   implementation project(':epoxy-databinding')
   implementation project(':epoxy-adapter')
   implementation project(':epoxy-annotations')
-  implementation project(':epoxy-viewbinder')
 
   kapt project(':epoxy-processor')
   kaptTest project(":epoxy-processor")
